@@ -150,3 +150,7 @@ public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         db.execSQL(“DROP TABLE IF EXISTS “ + TABLE_NAME);
     }
 ```
+
+
+>> 위코드형태가 아닌 SQL형태로 작성하는것으로 연습하기
+>> RoomDB활용하기

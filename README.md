@@ -152,5 +152,5 @@ public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
 ```
 
 
->> 위코드형태가 아닌 SQL형태로 작성하는것으로 연습하기
->> RoomDB활용하기
+위코드형태가 아닌 기존 SQL형태로 작성하는것을 연습해보고, SQLite는 이정도로만 알아두자  
+📌 현업에서 더욱 많이 사용하는 RoomDB / Realm 에 익숙해지는게 좋을듯 하다.

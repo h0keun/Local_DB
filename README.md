@@ -151,6 +151,8 @@ public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
     }
 ```
 
+<img src="https://user-images.githubusercontent.com/63087903/115217229-40148e80-a140-11eb-9e14-eaf69945d4ae.jpg" width="250" height="530">
+
 
 위코드형태가 아닌 기존 SQL형태로 작성하는것을 연습해보고, SQLite는 이정도로만 알아두자  
 📌 현업에서 더욱 많이 사용하는 RoomDB / Realm 에 익숙해지는게 좋을듯 하다.
